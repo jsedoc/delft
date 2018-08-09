@@ -59,6 +59,6 @@
             "lang": "en"
         }
     ],
-    "embedding-lmdb-path": "None"
+    "embedding-lmdb-path": "delft/data/db"
 }
 
